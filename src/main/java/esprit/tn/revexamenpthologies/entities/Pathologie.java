@@ -23,6 +23,7 @@ public class Pathologie implements Serializable {
     private String libelle;
     private String description;
     private boolean archive;
+    private boolean build;
 //test build
     @ManyToMany
     private Set<Acte> actes ;
