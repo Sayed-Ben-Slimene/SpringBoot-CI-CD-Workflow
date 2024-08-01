@@ -24,7 +24,7 @@ public class Pathologie implements Serializable {
     private String description;
     private boolean archive;
     private boolean build;
-//test build
+//test buhhhhhhhhild
 //test buisldhtf
 //test busdild
     @ManyToMany
