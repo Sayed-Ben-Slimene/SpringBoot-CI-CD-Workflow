@@ -23,7 +23,7 @@ public class ActeService implements IActeService {
 
     @Autowired
     ActeRepository acteRepository;
-//Merge test
+//Merge test 2
     @Autowired
     PathologieRepository pathologieRepository;
     @Override
