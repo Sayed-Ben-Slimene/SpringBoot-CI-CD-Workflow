@@ -19,11 +19,11 @@ import java.util.Set;
 @NoArgsConstructor
 @Service
 @Slf4j
-public class ActeService implements IActeService {
+public class ActeService implements IActeServisce {
 
     @Autowired
     ActeRepository acteRepository;
-//Mergeuuu
+//Mergeuuusssssssss
     @Autowired
     PathologieRepository pathologieRepository;
     @Override
