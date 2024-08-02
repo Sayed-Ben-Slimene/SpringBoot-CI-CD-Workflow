@@ -19,7 +19,7 @@ import java.util.Set;
 @NoArgsConstructor
 @Service
 @Slf4j
-public class ActeService implements IActeSedrvice {
+public class ActeService implements IActeService {
 
     @Autowired
     ActeRepository acteRepository;
